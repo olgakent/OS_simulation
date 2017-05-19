@@ -8,7 +8,7 @@ input and output in the program.
 
 
 
-**Instructions to run the program.
+Instructions to run the program.
 
     To compile and run the program on terminal type:
                                
